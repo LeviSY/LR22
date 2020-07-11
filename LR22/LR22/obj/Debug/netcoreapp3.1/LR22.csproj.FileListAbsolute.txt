@@ -1,0 +1,11 @@
+C:\Users\Levi\source\repos\LR22\LR22\bin\Debug\netcoreapp3.1\LR22.exe
+C:\Users\Levi\source\repos\LR22\LR22\bin\Debug\netcoreapp3.1\LR22.deps.json
+C:\Users\Levi\source\repos\LR22\LR22\bin\Debug\netcoreapp3.1\LR22.runtimeconfig.json
+C:\Users\Levi\source\repos\LR22\LR22\bin\Debug\netcoreapp3.1\LR22.runtimeconfig.dev.json
+C:\Users\Levi\source\repos\LR22\LR22\bin\Debug\netcoreapp3.1\LR22.dll
+C:\Users\Levi\source\repos\LR22\LR22\bin\Debug\netcoreapp3.1\LR22.pdb
+C:\Users\Levi\source\repos\LR22\LR22\obj\Debug\netcoreapp3.1\LR22.AssemblyInfoInputs.cache
+C:\Users\Levi\source\repos\LR22\LR22\obj\Debug\netcoreapp3.1\LR22.AssemblyInfo.cs
+C:\Users\Levi\source\repos\LR22\LR22\obj\Debug\netcoreapp3.1\LR22.dll
+C:\Users\Levi\source\repos\LR22\LR22\obj\Debug\netcoreapp3.1\LR22.pdb
+C:\Users\Levi\source\repos\LR22\LR22\obj\Debug\netcoreapp3.1\LR22.csprojAssemblyReference.cache
